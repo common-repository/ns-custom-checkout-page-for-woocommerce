@@ -1,0 +1,171 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-02-26 15:58+0100\n"
+"PO-Revision-Date: 2019-02-26 16:00+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ns-admin-options/inc.php:26
+msgid "- Add custom fields<br/>"
+msgstr "- Aggiungi campi custom<br/>"
+
+#: ns-admin-options/inc.php:27
+msgid "- Flag required for fields yes/no<br/>"
+msgstr "- Flag richiesto per i campi si/no<br/>"
+
+#: ns-admin-options/inc.php:28
+msgid "- Rename every single field <br/>"
+msgstr "- Rinomina ogni singolo campo<br/>"
+
+#: ns-admin-options/inc.php:29
+msgid "- Customize placeholder<br>"
+msgstr "- Placeholder custom<br/>"
+
+#: ns-admin-options/inc.php:30
+msgid "- Order fields<br/>"
+msgstr "- Campi ordinabili<br/>"
+
+#: ns-admin-options/ns-admin-options-setup.php:8
+msgid "Custom Checkout"
+msgstr "Custom Checkout"
+
+#: ns-admin-options/ns-admin-options-setup.php:9
+msgid "How to install premium version"
+msgstr "Come installare la versione premium"
+
+#: ns-admin-options/ns_admin_option_dashboard.php:29
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: ns-admin-options/ns_admin_option_dashboard.php:34
+msgid "Save Changes"
+msgstr "Salva Modifiche"
+
+#: ns-admin-options/ns_settings_box_newsletter.php:7
+#: ns-admin-options/ns_settings_box_pro_version.php:14
+msgid "UPGRADE!"
+msgstr "UPGRADE!"
+
+#: ns-admin-options/ns_settings_box_newsletter.php:11
+msgid "SUBSCRIBE TO OUR NEWSLETTER"
+msgstr "ISCRIVITI ALLA NOSTRA NEWSLETTER"
+
+#: ns-admin-options/ns_settings_box_newsletter.php:16
+msgid "STAY TUNED!"
+msgstr "STAY TUNED!"
+
+#: ns-admin-options/ns_settings_box_newsletter.php:16
+msgid "Thanks to use our plugin! Submit your email to keep in touch!"
+msgstr ""
+"Grazie per usare il nostro plugin! Inserisci la tua email per irmanere in "
+"contatto!"
+
+#: ns-admin-options/ns_settings_box_newsletter.php:21
+msgid "SUBSCRIBE!"
+msgstr "UNISCITI!"
+
+#: ns-admin-options/ns_settings_box_pro_version.php:8
+msgid "PREMIUM VERSION"
+msgstr "VERSIONE PREMIUM"
+
+#: ns-admin-options/ns_settings_box_pro_version.php:11
+msgid "ALL FREE VERSION FEATURES and:"
+msgstr "TUTTE LE FUNZIONALITA’ DELLA VERSIONE PREMIUM E:"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:8
+msgid "JOIN NS CLUB"
+msgstr "UNISCITI A NS CLUB"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:12
+msgid "– Instant access to all plugins and all themes"
+msgstr "- Accesso istantaneo a tutti i plugin e temi"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:13
+msgid "– All future plugins and themes are included"
+msgstr "- Tutti i futuri temi e plugin a tua disposizione"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:14
+msgid "– Unlimited license for all NS products"
+msgstr "- Licenze inlimitate per tutti i nostri prodotti"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:15
+msgid "– Unlimited download for each products"
+msgstr "- Download inlimitati"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:16
+msgid "– Super fast support"
+msgstr "- Supporto rapidissimo"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:17
+msgid "– Regular update"
+msgstr "- Aggiornamenti regolari"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:20
+msgid "DISCOVER MORE"
+msgstr "SCOPRI DI PIU’"
+
+#: ns-admin-options/ns_settings_custom.php:10
+msgid "Check to hide an element"
+msgstr "Seleziona per nascondere un elemento"
+
+#: ns-admin-options/ns_settings_custom.php:14
+msgid "Element"
+msgstr "Elemento"
+
+#: ns-admin-options/ns_settings_custom.php:15
+msgid "Hide"
+msgstr "Nascondi"
+
+#: ns-admin-options/ns_settings_custom.php:18
+msgid "First Name"
+msgstr "Nome"
+
+#: ns-admin-options/ns_settings_custom.php:22
+msgid "Last  Name"
+msgstr "Cognome"
+
+#: ns-admin-options/ns_settings_custom.php:26
+msgid "Company Name"
+msgstr "Società"
+
+#: ns-admin-options/ns_settings_custom.php:30
+msgid "Email Address"
+msgstr "Indirizzo Email"
+
+#: ns-admin-options/ns_settings_custom.php:34
+msgid "Phone"
+msgstr "Telefono"
+
+#: ns-admin-options/ns_settings_custom.php:38
+msgid "Country"
+msgstr "Paese"
+
+#: ns-admin-options/ns_settings_custom.php:42
+msgid "Address"
+msgstr "Indirizzo"
+
+#: ns-admin-options/ns_settings_custom.php:46
+msgid "Postcode / ZIP"
+msgstr "Codice postale / CAP"
+
+#: ns-admin-options/ns_settings_custom.php:50
+msgid "own / City"
+msgstr "Paese / Città"
+
+#: ns-admin-options/ns_settings_custom.php:54
+msgid "Province"
+msgstr "Provincia"
+
+#: ns-custom-checkout-page.php:79
+msgid "Premium Version"
+msgstr "Versione Premium"
